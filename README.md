@@ -1,204 +1,138 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1D9E75,100:0d1117&height=120&section=header" width="100%"/>
 
-```
- ██████╗ ██╗  ██╗ █████╗ ██╗   ██╗ █████╗ ███╗   ██╗ █████╗     ███╗   ██╗ █████╗ ██╗     ██╗
- ██╔══██╗██║  ██║██╔══██╗██║   ██║██╔══██╗████╗  ██║██╔══██╗    ████╗  ██║██╔══██╗██║     ██║
- ██████╔╝███████║███████║██║   ██║███████║██╔██╗ ██║███████║    ██╔██╗ ██║███████║██║     ██║
- ██╔══██╗██╔══██║██╔══██║╚██╗ ██╔╝██╔══██║██║╚██╗██║██╔══██║    ██║╚██╗██║██╔══██║██║     ██║
- ██████╔╝██║  ██║██║  ██║ ╚████╔╝ ██║  ██║██║ ╚████║██║  ██║    ██║ ╚████║██║  ██║███████╗██║
- ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝    ╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚═╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1D9E75,100:0d1117&height=110&section=header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=1D9E75&center=true&vCenter=true&width=750&lines=Data+Scientist+%7C+ML+Engineer+%7C+NLP+Researcher;ACL+2026+Published+%7C+IIT+Bhubaneswar+M.Tech+AI;Building+intelligent+systems+from+data+to+deployment;Open+to+Data+Science+%26+Machine+Learning+Roles" alt="Typing SVG" />
+<h1>Bhavana Nali</h1>
 
-<br/>
+<p><strong>M.Tech Artificial Intelligence · IIT Bhubaneswar · CGPA 8.23</strong></p>
 
-[![Gmail](https://img.shields.io/badge/-bhavananali697%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=1D9E75)](mailto:bhavananali697@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=1D9E75)](https://www.linkedin.com/in/bhavana-nali)
-[![GitHub](https://img.shields.io/badge/-bhavananali-0d1117?style=for-the-badge&logo=github&logoColor=1D9E75)](https://github.com/bhavananali)
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&pause=1200&color=1D9E75&center=true&vCenter=true&width=680&lines=Data+Scientist+%7C+ML+Engineer+%7C+NLP+Researcher;ACL+2026+Published+%7C+Oral+Presentation;Multimodal+AI+%7C+Speech+AI+%7C+Big+Data;Open+to+Data+Science+%26+ML+Roles" alt="Typing SVG" />
+</p>
+
+<p>
+<a href="mailto:bhavananali697@gmail.com"><img src="https://img.shields.io/badge/Gmail-bhavananali697-1D9E75?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/bhavana-nali"><img src="https://img.shields.io/badge/LinkedIn-bhavana--nali-1D9E75?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
+&nbsp;
+<a href="https://github.com/bhavananali"><img src="https://img.shields.io/badge/GitHub-bhavananali-1D9E75?style=flat-square&logo=github&logoColor=white&labelColor=0d1117"/></a>
+</p>
 
 </div>
 
 ---
 
-### `> whoami`
+## About
 
-```python
-profile = {
-    "name"       : "Bhavana Nali",
-    "degree"     : "M.Tech Artificial Intelligence @ IIT Bhubaneswar  (CGPA 8.23)",
-    "background" : "Computer Science @ Sri Venkateswara University    (CGPA 8.29)",
-    "published"  : "ACL 2026 · DravidianLangTech Workshop (Oral Presentation)",
-    "expertise"  : ["Machine Learning", "Deep Learning", "NLP", "Speech AI",
-                    "Multimodal AI", "Big Data", "Predictive Analytics"],
-    "tools"      : ["Python", "PyTorch", "Scikit-learn", "Apache Spark",
-                    "AWS", "Streamlit", "Flask", "React"],
-    "status"     : "Open to hire ✅  —  Data Science · ML · NLP Engineering"
-}
-```
+AI researcher and data scientist with expertise in machine learning, NLP, and multimodal systems — from academic research published at top NLP venues to end-to-end deployed applications. I build systems that go the full journey: from raw data to production-ready output.
+
+- 🎓 **M.Tech AI** at IIT Bhubaneswar · **B.Tech CS** at Sri Venkateswara University
+- 📄 **Published** at ACL 2026 · DravidianLangTech Workshop (Oral Presentation)
+- 🏆 **AICTE Pragati Scholar** · Top 1,000 women engineers in India
+- 🧑‍🏫 **Teaching Assistant** — NLP (PG), C Programming & FLAT (UG) at IIT Bhubaneswar
+- 🟢 **Open to hire** — Data Scientist · ML Engineer · NLP Engineer
 
 ---
 
-### `> cat about.txt`
+## Key Metrics
 
-I'm an AI researcher and aspiring data scientist with a strong foundation in machine learning,
-natural language processing, and end-to-end model deployment. My work spans academic research
-published at top NLP venues to hands-on projects handling millions of records.
-
-I enjoy building systems that go the full journey — from raw data to production-ready output —
-and I bring both the research rigour of IIT and the practical instinct to make things work.
+| | | | |
+|:---:|:---:|:---:|:---:|
+| **BLEU +21%** | **95% AUC** | **98% Acc** | **87% Acc** |
+| Speech translation over SeamlessM4T | Outfit compatibility prediction | Wardrobe classification | Flight delay prediction |
 
 ---
 
-### `> cat highlights.log`
+## Projects
 
-```
-[ACL 2026]      Oral presentation @ DravidianLangTech Workshop ········· ✓
-[BLEU +21%]     Speech-to-speech translation · beat SeamlessM4T baseline  ✓
-[95% AUC]       Multimodal outfit compatibility · FashionCLIP Transformer  ✓
-[98% acc]       CLIP + MLP wardrobe classifier with SMOTE augmentation ··· ✓
-[87% acc]       XGBoost flight delay predictor · 5M+ records · Streamlit ·  ✓
-[16K products]  Hybrid NLP + VGG16 apparel recommender · 7 models benchm.  ✓
-[AICTE]         Pragati Scholarship · Top 1,000 women engineers in India ·· ✓
-[TA @ IIT BBS]  Graduate NLP + Undergraduate C Programming & FLAT ········ ✓
-```
+### 🎙️ Speech-to-Speech Translation for Dravidian Languages
+> M.Tech Thesis · NLP & Speech AI · **ACL 2026 · DravidianLangTech Workshop**
+
+Designed and evaluated Cascaded Modular vs End-to-End speech-to-speech translation pipelines across Tamil, Telugu, and Kannada. The cascaded system (IndicConformer → IndicTrans2 → Parler-TTS with LoRA fine-tuning) outperformed the SeamlessM4T-v2 end-to-end baseline by 21% in BLEU score.
+
+`IndicConformer` `IndicTrans2` `Parler-TTS` `SeamlessM4T-v2` `LoRA` `HuggingFace` `FLEURS` `BhasaAnuvaad`
+
+[![Repo](https://img.shields.io/badge/View_Repository-cascade--vs--e2e--dravidian-1D9E75?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/bhavananali/cascade-vs-e2e-dravidian)
 
 ---
 
-### `> ls projects/`
+### 👗 OutfitMind — AI Fashion Assistant
+> Multimodal AI · Computer Vision + NLP · Full-Stack Deployment
+
+Multimodal Transformer system for personalized outfit generation and compatibility prediction. Built a FashionCLIP Transformer achieving 95% AUC for outfit compatibility and a separate CLIP + MLP classifier with SMOTE augmentation reaching 98% wardrobe classification accuracy. Deployed end-to-end with a Flask backend and React frontend.
+
+`FashionCLIP` `CLIP` `PyTorch` `Transformers` `SMOTE` `Flask` `React.js`
+
+[![Repo](https://img.shields.io/badge/View_Repository-OutfitMind-1D9E75?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/bhavananali/OutfitMind)
 
 ---
 
-**🎙️ Speech-to-Speech Translation for Dravidian Languages** · M.Tech Thesis · NLP & Speech AI
+### ✈️ Flight Delay Predictor
+> Predictive Analytics · Big Data · Interactive Dashboard
 
-```
-TASK      Compare Cascaded Modular vs End-to-End S2ST pipelines
-          across Tamil, Telugu, and Kannada
-MODELS    IndicConformer (ASR) + IndicTrans2 (MT) + Parler-TTS (TTS)
-          LoRA fine-tuning · SeamlessM4T-v2 (E2E baseline)
-RESULT    BLEU 19.18 vs baseline 16.84 — 21% relative improvement
-DATA      BhasaAnuvaad · Mann-ki-Baat · FLEURS (AI4Bharat)
-VENUE     ACL 2026 · DravidianLangTech Workshop · Oral Presentation
-```
-[![Repo](https://img.shields.io/badge/GitHub-cascade--vs--e2e--dravidian-0d1117?style=flat-square&logo=github&logoColor=1D9E75)](https://github.com/bhavananali/cascade-vs-e2e-dravidian)
+Built an end-to-end ML pipeline on 5M+ airline records using Apache Spark for preprocessing. Trained and benchmarked XGBoost, Random Forest, SVM, and Logistic Regression — XGBoost delivered 87% accuracy. Deployed as a real-time Streamlit dashboard with delay probability scores.
+
+`XGBoost` `Apache Spark` `Scikit-learn` `Streamlit` `Python` `Pandas`
+
+[![Repo](https://img.shields.io/badge/View_Repository-flight--delay--predictor-1D9E75?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/bhavananali/flight_delay_prediction)
 
 ---
 
-**👗 OutfitMind** · Multimodal AI · Computer Vision + NLP · Full-Stack
+### 🛍️ Apparel Recommendation System
+> NLP · Computer Vision · Hybrid Retrieval
 
-```
-TASK      Personalized outfit generation and compatibility prediction
-MODELS    FashionCLIP Transformer · CLIP + MLP · category embeddings
-RESULTS   95% AUC (compatibility) · 69% Top-1 (item retrieval)
-          98% sub-category classification accuracy (SMOTE augmented)
-DEPLOY    Flask inference backend + React.js frontend (full-stack)
-```
-[![Repo](https://img.shields.io/badge/GitHub-OutfitMind-0d1117?style=flat-square&logo=github&logoColor=1D9E75)](https://github.com/bhavananali/OutfitMind)
+Hybrid recommendation engine across 16K+ products combining text similarity (TF-IDF, Word2Vec, Doc2Vec) with VGG16 CNN image embeddings (25,088-dim). Benchmarked 7 retrieval models using euclidean distance ranking across text, visual, and fused similarity.
+
+`VGG16` `Word2Vec` `TF-IDF` `Doc2Vec` `TensorFlow` `NumPy` `Scikit-learn`
+
+[![Repo](https://img.shields.io/badge/View_Repository-apparel--recommendation--system-1D9E75?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/bhavananali/apparel-recommendation-system)
 
 ---
 
-**✈️ Flight Delay Predictor** · Predictive Analytics · Big Data Engineering
+## Tech Stack
 
-```
-DATA      5M+ airline operations records · Apache Spark preprocessing
-MODELS    XGBoost · Random Forest · SVM · Logistic Regression
-RESULT    XGBoost → 87% accuracy · full precision / recall / F1 analysis
-OUTPUT    Real-time Streamlit dashboard with delay probability scores
-DOMAIN    Aviation operations · MRO · scheduling optimisation
-```
-[![Repo](https://img.shields.io/badge/GitHub-flight--delay--predictor-0d1117?style=flat-square&logo=github&logoColor=1D9E75)](https://github.com/bhavananali/flight_delay_prediction)
+**Languages**
+`Python` `SQL` `C` `C++`
 
----
+**ML / Deep Learning**
+`Scikit-learn` `XGBoost` `PyTorch` `TensorFlow` `Keras` `CNNs` `RNNs` `LSTMs` `Transformers` `Seq2Seq` `AutoML` `SMOTE`
 
-**🛍️ Apparel Recommendation System** · NLP · Computer Vision · Hybrid Retrieval
+**NLP & Speech**
+`HuggingFace` `NLTK` `SpaCy` `Gensim` `Whisper` `IndicTrans2` `SeamlessM4T` `IndicConformer` `Parler-TTS`
 
-```
-SCALE     16K+ products · Amazon Tops dataset
-TEXT      TF-IDF · Word2Vec · Doc2Vec · Bag-of-Words
-VISUAL    VGG16 CNN · 25,088-dim image feature embeddings
-FUSION    Hybrid text + image + metadata similarity scoring
-EVAL      7 retrieval models benchmarked · euclidean distance ranking
-```
-[![Repo](https://img.shields.io/badge/GitHub-apparel--recommendation--system-0d1117?style=flat-square&logo=github&logoColor=1D9E75)](https://github.com/bhavananali/apparel-recommendation-system)
+**Multimodal & GenAI**
+`CLIP` `FashionCLIP` `VGG16` `LoRA Fine-tuning` `RAG` `LangChain` `Prompt Engineering`
+
+**Data & Cloud**
+`Apache Spark` `AWS` `Snowflake` `Microsoft Azure` `PowerBI`
+
+**Deployment**
+`Flask` `React.js` `Streamlit` `Git` `Linux`
 
 ---
 
-### `> cat tech_stack.sh`
+## Education
 
-```bash
-# ── Languages ─────────────────────────────────────────────────────
-LANGUAGES="Python  SQL  C  C++"
-
-# ── Machine Learning & Deep Learning ──────────────────────────────
-ML_DL="Scikit-learn  XGBoost  Random Forest  SVM
-       CNNs  RNNs  LSTMs  Transformers  Seq2Seq  Attention
-       AutoML  SMOTE  Hyperparameter Tuning"
-
-# ── NLP & Speech ──────────────────────────────────────────────────
-NLP_SPEECH="NLTK  SpaCy  Gensim  HuggingFace  Whisper
-            IndicTrans2  SeamlessM4T  IndicConformer  Parler-TTS"
-
-# ── Multimodal & Generative AI ────────────────────────────────────
-MULTIMODAL_GENAI="CLIP  FashionCLIP  VGG16  LoRA Fine-tuning
-                  RAG  LangChain  Prompt Engineering"
-
-# ── Frameworks & Deployment ───────────────────────────────────────
-FRAMEWORKS="PyTorch  TensorFlow  Keras  NumPy  Pandas
-            Flask  React.js  Streamlit"
-
-# ── Data & Cloud Platforms ────────────────────────────────────────
-PLATFORMS="Apache Spark  AWS  Snowflake  Microsoft Azure
-           PowerBI  Git  Linux"
-```
+| Degree | Institution | CGPA | Year |
+|--------|-------------|------|------|
+| M.Tech — Artificial Intelligence (CSE) | Indian Institute of Technology Bhubaneswar | 8.23 | 2024 – 2026 |
+| B.Tech — Computer Science & Engineering | Sri Venkateswara University, Tirupati | 8.29 | 2019 – 2023 |
 
 ---
 
-### `> cat education.json`
+## Certifications
 
-```json
-[
-  {
-    "degree"      : "M.Tech — Artificial Intelligence (CSE)",
-    "institution" : "Indian Institute of Technology Bhubaneswar",
-    "cgpa"        : 8.23,
-    "period"      : "2024 – 2026",
-    "highlights"  : ["Teaching Assistant (NLP, C, FLAT)", "Deputy Secretary", "AICTE Pragati Scholar"]
-  },
-  {
-    "degree"      : "B.Tech — Computer Science & Engineering",
-    "institution" : "Sri Venkateswara University, Tirupati",
-    "cgpa"        : 8.29,
-    "period"      : "2019 – 2023"
-  }
-]
-```
-
----
-
-### `> cat certifications.txt`
-
-```
-[deeplearning.ai]   Deep Learning Specialization
-[AWS]               Cloud Practitioner Essentials
-[deeplearning.ai]   Vector Databases
-```
+- **Deep Learning Specialization** — deeplearning.ai
+- **AWS Cloud Practitioner Essentials** — Amazon Web Services
+- **Vector Databases** — deeplearning.ai
 
 ---
 
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   open_to_hire  = True                                        ║
-║   roles         = ["Data Scientist", "ML Engineer",           ║
-║                    "NLP Engineer", "AI Researcher"]           ║
-║   location      = "India (Remote / Relocation OK)"           ║
-║   contact       = "bhavananali697@gmail.com"                  ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+**Open to Data Scientist · ML Engineer · NLP Engineer · AI Researcher roles**
+
+📧 bhavananali697@gmail.com &nbsp;·&nbsp; 🌐 [LinkedIn](https://www.linkedin.com/in/bhavana-nali) &nbsp;·&nbsp; 💻 [GitHub](https://github.com/bhavananali)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1D9E75,100:0d1117&height=80&section=footer" width="100%"/>
 
